@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning golang and CPython internals
 - 💞️ I’m looking to collaborate on Python core team
 - 📫 How to reach me rodriguezjluis0@gmail.com
+- 👨🏽‍💻 Or my [personal website](https://metalerk.github.io)
+
+# Workshops
+[BSides GDL Conference Video](https://www.facebook.com/BSidesGDL/videos/376897363393242)
 
 <!---
 metalerk/metalerk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
